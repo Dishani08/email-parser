@@ -9,9 +9,13 @@ A web-based application built with Python and Streamlit that allows users to par
 - Interactive web interface
 
 
-## Demo
-### Application Screenshot
-![App Screenshot](email.png)
+## Live Demo
+You can access the live application here: 
+**[Email Parser Live App](https://email-parser-rj64wdtgcmppvh2apgsqsus.streamlit.app)**
+
+
+## Application Screenshot
+![Application Screenshot](email.png)
 
 
 ## Tech Stack
