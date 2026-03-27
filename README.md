@@ -1,80 +1,32 @@
-\# 📧 Email Parser using Streamlit
+# Email Parser Application
+
+A web-based application built with Python and Streamlit that allows users to parse email addresses into their respective usernames and domains.
 
 
-
-A web-based application that parses email addresses into username and domain using Python and Streamlit.
-
-
-
-\---
+## Features
+- Automated email slicing (username and domain extraction)
+- Real-time input validation
+- Interactive web interface
 
 
-
-\## 🚀 Features
-
-\- Email parsing (username \& domain)
-
-\- Input validation
-
-\- Interactive UI using Streamlit
+## Demo
+### Application Screenshot
+![App Screenshot](email.png)
 
 
-
-\---
-
-
-
-\## 📸 Demo
+## Tech Stack
+- Language: Python
+- Framework: Streamlit
 
 
-
-\### App Screenshot
-
-!\[App Screenshot](email.png)
-
-
-
-\---
+## Project Structure
+- app.py: Main application logic
+- requirements.txt: List of dependencies
+- email.png: Application screenshot
+- emails.db: Local database storage
 
 
-
-\## 🛠 Tech Stack
-
-\- Python
-
-\- Streamlit
-
-
-
-\---
-
-
-
-\## 📂 Project Structure
-
-email-parser/
-
-│── app.py
-
-│── requirements.txt
-
-│── README.md
-
-│── email.png
-
-
-
-\---
-
-
-
-\## ⚙️ Run Locally
-
-git clone https://github.com/Dishani08/email-parser  
-
-cd email-parser  
-
-pip install -r requirements.txt  
-
-streamlit run app.py
-
+## How to Run
+1. Clone the repository
+2. Install dependencies: pip install -r requirements.txt
+3. Run the app: streamlit run app.py
