@@ -11,7 +11,7 @@ A web-based application built with Python and Streamlit that allows users to par
 
 ## Live Demo
 You can access the live application here: 
-**[Email Parser Live App](https://email-parser-rj64wdtgcmppvh2apgsqsus.streamlit.app)**
+**[Email Parser Live App](https://email-parser-yn65wzvqvyyusrmaankf3o.streamlit.app/)**
 
 
 ## Application Screenshot
